@@ -7,7 +7,7 @@ public class ObjectsPractice {
     public void objectsPractice() {
         Book firstBook = new Book();
         firstBook.setAuthor("Paul Ekman");
-        firstBook.setBookName("");
+        firstBook.setBookName("Unmasking the Face. A Guide to Recognizing Emotions from Facial Clues");
         firstBook.setType("Psychology");
         firstBook.setPageCount(272);
 
